@@ -1,4 +1,4 @@
-2# Skim Literature by Pretrained Sentence Encoder
+Skim Literature by Pretrained Sentence Encoder.
  
 The goal of this project is to create an NLP model that can convert an abstract of a research paper into different parts such as Background, Objective, Method, Result, or Conclusion as per the sentences to enable readers quickly and efficiently skim through the long literature.
 
